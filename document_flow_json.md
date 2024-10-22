@@ -1,3 +1,8 @@
+# Example 2 of lucid chart standard import file
+
+The following is a sample document.json that can be imported into lucid chart
+
+```
 {
   "version":1,
   "pages":[
@@ -30,3 +35,4 @@
     }
   ]
 }
+```
